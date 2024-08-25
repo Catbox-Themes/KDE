@@ -1,0 +1,15 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "Dependencies": [
+        ],
+        "EnabledByDefault": true,
+        "Id": "Catbox-Masala-Chai",
+        "License": "MIT",
+        "Name": "Catbox Masala Chai",
+        "Version": "0.2.6"
+    }
+}

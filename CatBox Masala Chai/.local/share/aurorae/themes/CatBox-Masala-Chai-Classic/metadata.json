@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "core@catppuccin.com",
+                "Name": "Catppuccin"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [
+        ],
+        "EnabledByDefault": true,
+        "Description": "Soothing Pastel theme for Kwin",
+        "Id": "CatBox-Masala-Chai-Classic",
+        "License": "MIT",
+        "Name": "CatBox-Masala-Chai-Classic",
+        "Version": "0.2.6"
+    }
+}
